@@ -34,6 +34,10 @@ The application includes a simple GUI built with Tkinter to load and process vid
 
 ---
 
+
+## ⚙️ Design overview
+![Description](basket.png)
+
 ## ⚙️ Installation
 
  Clone the repository:
