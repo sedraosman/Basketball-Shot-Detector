@@ -35,7 +35,7 @@ The application includes a simple GUI built with Tkinter to load and process vid
 ---
 
 
-## ⚙️ Design overview
+## ⚙️ Example of Basketball Goal Detection
 ![Description](basket.png)
 
 ## ⚙️ Installation
